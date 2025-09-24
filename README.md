@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analysis projects, dashboards, and open-source analytics tools  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-link-here) | mprerna9399@gmail.com  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love uncovering insights in messy datasets—it's like solving a mystery!
+- ⚡ Fun fact: I love uncovering insights in messy datasets- it's like solving a mystery!
 
 
 <!---
